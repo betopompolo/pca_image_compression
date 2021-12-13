@@ -4,7 +4,7 @@ from image_compressor import PCAImageCompressor
 if __name__ == '__main__':
     image_paths = [
         'logo.png',
-        'apple_event.png'
+        'landscape.png'
     ]
     n_components_list = [
         8,
